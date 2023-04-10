@@ -1,5 +1,5 @@
 outs:
-- md5: 85de541ede272f757b0e5917c6e8ed0e.dir
-  size: 93106734
-  nfiles: 5
+- md5: d254e66baaca1716552f1960b3acb188.dir
+  size: 124142733
+  nfiles: 6
   path: cifar
